@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\LogicTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\LogicTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\Logic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\obj\Debug\LogicTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\obj\Debug\LogicTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\obj\Debug\LogicTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\LogicTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

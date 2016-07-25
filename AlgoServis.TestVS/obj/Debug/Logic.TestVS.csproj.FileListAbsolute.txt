@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\bin\Debug\AlgoServis.TestVS.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\bin\Debug\AlgoServis.TestVS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\bin\Debug\Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\bin\Debug\Logic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\obj\Debug\Logic.TestVS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\obj\Debug\AlgoServis.TestVS.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UnitTestingHomework-master\AlgoServis.TestVS\obj\Debug\AlgoServis.TestVS.pdb
